@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomNumbers</string>
+    <string name="button_random">Random</string>
+    <string name="text_random">0</string>
+</resources>
